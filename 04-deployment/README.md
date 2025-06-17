@@ -1,4 +1,4 @@
-# 🚀 MLOps Zoomcamp Week 4 Notes: Model Deployment Guide 🚀
+# 🚀 MLOps Zoomcamp Week 4 Notes: Model Deployment Guide
 
 ## 📋 Table of Contents
 - Introduction to Model Deployment
