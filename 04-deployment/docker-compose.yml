@@ -1,0 +1,7 @@
+version: '3.9'
+
+services:
+  duration_time_prediction:
+    build: .
+    container_name: duration_time_prediction
+    command: ["yellow", "2023", "05"]
